@@ -12,8 +12,7 @@ This works for showq released with Postfix 3.x as it uses its binary format.
 Having a working Golang environment:
 
 ```bash
-go get github.com/trazfr/prometheus-showq-exporter
-go install github.com/trazfr/prometheus-showq-exporter
+go install github.com/trazfr/prometheus-showq-exporter@latest
 ```
 
 ## Use
